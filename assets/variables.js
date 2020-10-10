@@ -9,7 +9,7 @@ const variables = {
   quotes: [
     { quote: "Pengagum Rahasia", author: "No Name" },
     { quote: "Pengagum Rahasia", author: "No Name" },
-    { quote: "Aku sayang kamu!", author: "No Name" },
+    { quote: "Pengagum Rahasia", author: "No Name" },
     { quote: "Pengagum Rahasia ", author: "No Name" },
     { quote: "Pengagum Rahasia", author: "No Name" },
   ],
